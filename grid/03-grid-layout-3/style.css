@@ -25,6 +25,7 @@
   grid-template-columns: 1fr 2fr;
 }
 
+<<<<<<< HEAD
 .logo {
   justify-self: start;
 }
@@ -38,6 +39,8 @@
   grid-template-columns: repeat(4, 1fr);
 }
 
+=======
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
 .menu ul,
 .menu li {
   font-size: 16px;
@@ -45,12 +48,16 @@
 }
 
 .sidebar {
+<<<<<<< HEAD
   background-color: #ff7755;
   grid-column: 1 /2;
   grid-row: 2 / 4;
   display: grid;
   grid-template-rows: repeat(4, 1fr);
   gap: 50px;
+=======
+  background-color: #C50208;
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
 }
 
 .sidebar .photo {
@@ -61,10 +68,13 @@
   border-radius: 10px;
 }
 
+<<<<<<< HEAD
 .photo {
   display: grid;
   align-items: center;
 }
+=======
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
 
 .sidebar .side-content {
   background-color: white;
@@ -76,6 +86,7 @@
 }
 
 .nav {
+<<<<<<< HEAD
   background-color: #ff7755;
   grid-column: 2 / 3;
   align-self: center;
@@ -84,6 +95,9 @@
 .nav ul {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+=======
+  background-color: #C50208;
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
 }
 
 .nav ul li {
@@ -136,4 +150,8 @@
 .footer p {
   font-size: 13px;
   font-weight: normal;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e

@@ -30,6 +30,7 @@ html {
 }
 
 .header {
+<<<<<<< HEAD
   background-color: #ffde22;
   grid-area: header;
 }
@@ -47,6 +48,25 @@ html {
 .article {
   background-color: #bccbde;
   grid-area: article;
+=======
+  background-color: #006157;
+}
+
+.sidebar {
+  background-color: #005B94;
+}
+
+.nav {
+  background-color: #642cde;
+}
+
+.article {
+  background-color: #7E1DC3;
+}
+
+.footer {
+  background-color: #393f4d;
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
 }
 
 .article p {
@@ -54,9 +74,13 @@ html {
   font-family: sans-serif;
   color: white;
   text-align: left;
+<<<<<<< HEAD
 }
 
 .footer {
   background-color: #393f4d;
   grid-area: footer;
 }
+=======
+}
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e

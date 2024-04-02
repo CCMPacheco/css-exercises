@@ -57,6 +57,7 @@ ul {
 .sidebar {
   min-width: 300px;
   background: royalblue;
+<<<<<<< HEAD
   font-size: 24px;
   padding: 16px;
 }
@@ -65,6 +66,9 @@ ul {
   display: flex;
   flex-wrap: wrap;
   padding: 32px;
+=======
+  box-sizing: border-box;
+>>>>>>> 4c252336bbc7a539ede1aa31923390ec3229e98e
 }
 
 .card {
